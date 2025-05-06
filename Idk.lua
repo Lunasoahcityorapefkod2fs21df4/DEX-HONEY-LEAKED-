@@ -1,3 +1,4 @@
+-- OO MY SKID what you sneaking in here boi ?
 CreateGui = function()
 local NewGuiPart1 = Instance.new("ScreenGui")
 local NewGuiPart2 = Instance.new("Frame")
